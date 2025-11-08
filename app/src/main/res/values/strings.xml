@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kitoko Packer</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="scan_invoice_prompt">Scan invoice QR to begin</string>
+    <string name="scan_product_prompt">Scan packet QR or SKU</string>
+    <string name="order_packed">Order Packed</string>
+    <string name="export_csv">Export CSV</string>
+    <string name="history">History</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="resume_scanning">Resume Scanning</string>
+    <string name="order_already_packed">Order already packed today.</string>
+    <string name="scan_error">Unsupported code or format.</string>
+    <string name="network_error">Network error, please retry.</string>
+    <string name="packed_overlay_message">Order %1$s packed</string>
+</resources>
